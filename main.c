@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("AVG-Student-Project\n");
+    int Name=20;
+    printf("AVG-Student-Project22\n%d ",Name);
     return 0;
 }
