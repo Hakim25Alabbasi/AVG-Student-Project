@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("AVG-Student-Project\n");
     return 0;
 }
